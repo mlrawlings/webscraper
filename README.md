@@ -16,7 +16,7 @@ jsdom claims that contextify (a binary module) is optional, but it isn't.  To ge
 
 ## PHP
 
-[phpQuery] is a dependency and it is included in this repo.  The [Zend Framework] is another dependency you need to download it and add its location on your computer to the include_path in php.ini. 
+[phpQuery] is a dependency and it is included in this repository.  The [Zend Framework] is a dependency of phpQuery. You need to download it and add its location on your hard drive to the include_path in php.ini. 
 
   [phpQuery]: http://code.google.com/p/phpquery/
   [Zend Framework]: http://www.zend.com/en/community/downloads
