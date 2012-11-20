@@ -1,0 +1,7 @@
+{
+  "version": "0.0.1",
+  "name": "node_broken_link_checker",
+  "dependencies": {
+    "jsdom": "~0.2.19"
+  }
+}
